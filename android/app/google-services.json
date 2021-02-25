@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628722415845",
+    "project_id": "notification-11ff6",
+    "storage_bucket": "notification-11ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628722415845:android:fe8a955f36e8e119023c0c",
+        "android_client_info": {
+          "package_name": "np.com.esign.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628722415845-62a5m70mc4ac24rntqbfc4h8nc18e987.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWD6_XsAfZT0BlNQt4CjlOgcPSfSKCso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628722415845-62a5m70mc4ac24rntqbfc4h8nc18e987.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
